@@ -92,35 +92,6 @@ Tools
 - GitHub
 - Postman
 - VS Code
-
----
-
-Project Structure
-
-crm-lead-management/
-│
-├── client/
-│   ├── public/
-│   ├── src/
-│   │   ├── components/
-│   │   ├── pages/
-│   │   ├── App.js
-│   │   └── index.js
-│
-├── server/
-│   ├── controllers/
-│   ├── models/
-│   ├── routes/
-│   ├── middleware/
-│   ├── config/
-│   └── server.js
-│
-├── README.md
-├── package.json
-└── .env
-
----
-
  Installation & Setup
 
 Clone Repository
@@ -251,7 +222,7 @@ GitHub: https://github.com/your-username
 
 LinkedIn: https://linkedin.com/in/your-profile
 
-Email: your-email@example.com
+Email:amruthavallinelliparthi@gmail.com
 
 ---
 
